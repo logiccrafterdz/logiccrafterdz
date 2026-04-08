@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=250&section=header&text=LogicCrafter&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Protocol%20Engineering%20|%20Quantitative%20Trading%20|%20AI%20Systems&descSize=20&descAlignY=55&fontColor=ffffff" alt="LogicCrafter Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=250&section=header&text=LogicCrafter&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Protocol%20Engineering%20|%20Quantitative%20Trading%20|%20AI%20Systems&descSize=20&descAlignY=55&fontColor=ffffff" alt="LogicCrafter Header" />
 </p>
 
 <p align="center">
@@ -70,11 +70,11 @@ Software development is the engineering of resilient, efficient, and intelligent
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages" alt="Top Languages" />
 </p>
 
 <p align="center">
