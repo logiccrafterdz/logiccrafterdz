@@ -89,7 +89,7 @@ Software development is the engineering of resilient, efficient, and intelligent
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogiccrafterdz%2Flogiccrafterdz&count_bg=%231E1E2E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=logiccrafterdz&color=1e1e2e&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 <p align="center">
