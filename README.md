@@ -61,16 +61,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&bg_color=0a0a14&title_color=00f5d4&text_color=c9d1d9&icon_color=f15bb5&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&bg_color=0a0a14&title_color=00f5d4&text_color=c9d1d9&icon_color=f15bb5&hide_border=true&custom_title=Programming%20Languages" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=logiccrafterdz&theme=tokyonight&background=0a0a14&ring=f15bb5&fire=f15bb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5d4&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logiccrafterdz&bg_color=0a0a14&color=ffffff&line=00f5d4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="./stats.svg" alt="Player Databanks" />
 </p>
 
 <picture>
