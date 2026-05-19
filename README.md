@@ -1,20 +1,20 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=250&section=header&text=LogicCrafter&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Protocol%20Engineering%20|%20Quantitative%20Trading%20|%20AI%20Systems&descSize=20&descAlignY=55&fontColor=ffffff" alt="LogicCrafter Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=250&section=header&text=LogicCrafterDz&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Protocol%20Engineering%20|%20Quantitative%20Systems%20|%20AI%20Infrastructure&descSize=18&descAlignY=55&fontColor=ffffff" alt="LogicCrafterDz Header" />
 </p>
 
 <p align="center">
   <a href="https://x.com/Arana_lib">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://warpcast.com/esta">
-    <img src="https://img.shields.io/badge/Farcaster-8A2BE2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" />
-  </a>
-  <a href="mailto:contact@logiccrafterdz.site">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Farcaster-7b2cbf?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" />
   </a>
   <a href="https://www.logiccrafterdz.site">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-5b21b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:contact@logiccrafterdz.site">
+    <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
