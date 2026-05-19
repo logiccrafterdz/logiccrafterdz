@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=250&section=header&text=LogicCrafterDz&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Protocol%20Engineering%20|%20Quantitative%20Systems%20|%20AI%20Infrastructure&descSize=18&descAlignY=55&fontColor=ffffff" alt="LogicCrafterDz Header" />
+  <img src="./brand.svg" alt="LogicCrafterDz" width="100%" />
 </p>
 
 <p align="center">
@@ -24,9 +24,7 @@
 
 ---
 
-### Engineering & Infrastructure
-
-Software development is the engineering of resilient, efficient, and intelligent systems. My work focuses on the intersection of decentralized infrastructure, algorithmic financial markets, and autonomous intelligence.
+I design and build protocol-grade systems — cryptographic verification engines, real-time market guardrails, and autonomous tooling. My work sits at the intersection of **trustless infrastructure**, **quantitative execution**, and **AI-native automation**.
 
 ---
 
