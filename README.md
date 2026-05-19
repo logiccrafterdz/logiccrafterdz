@@ -2,22 +2,28 @@
   <img src="./brand.svg" alt="LogicCrafterDz brand banner" width="100%" />
 </p>
 
-<div align="center">
+<p align="center">
+  <strong>Protocol Engineer • Quant Systems Builder • AI Toolmaker</strong>
+</p>
 
-**Protocol Engineer • Quant Systems Builder • AI Toolmaker**
+<p align="center">
+  I build systems that verify, adapt, and survive real-world complexity.
+</p>
 
-*I build systems that verify, adapt, and survive real-world complexity.*
-
-<br />
-
-[![X](https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Arana_lib)
-[![Farcaster](https://img.shields.io/badge/Farcaster-14B8A6?style=for-the-badge&logo=farcaster&logoColor=white)](https://warpcast.com/esta)
-[![Website](https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.logiccrafterdz.site/)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@logiccrafterdz.site)
-
-</div>
-
-<br />
+<p align="center">
+  <a href="https://x.com/Arana_lib">
+    <img src="https://img.shields.io/badge/X-0B1220?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://warpcast.com/esta">
+    <img src="https://img.shields.io/badge/Farcaster-14B8A6?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" />
+  </a>
+  <a href="https://www.logiccrafterdz.site/">
+    <img src="https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:contact@logiccrafterdz.site">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
