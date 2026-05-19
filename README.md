@@ -78,6 +78,14 @@ Software development is the engineering of resilient, efficient, and intelligent
 
 ---
 
+### 📢 Recent Research Transmissions
+
+* 📡 **[Announcing SODS Protocol: Zero-Cost Behavioral Verification](https://x.com/Arana_lib/status/2010809033486225714)** - Official announcement of SODS Protocol.
+* 📝 **[SODS v1.0-beta Release Notes](https://x.com/Arana_lib/status/2010809073625948258)** - Overview of v1.0-beta release and roadmap.
+* 🌲 **[Tutorial: Behavioral Merkle Tree (BMT)](https://x.com/Arana_lib/status/2012980889400017036)** - Deep dive into cryptographic BMT blocks.
+* 📊 **[Observability Infrastructure Report](https://x.com/Arana_lib/status/2015424366344065260)** - Technical report on Prometheus and Grafana for SODS.
+
+---
 ## Stats
 
 <p align="center">
