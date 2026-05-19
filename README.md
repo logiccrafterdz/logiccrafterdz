@@ -71,6 +71,12 @@ Software development is the engineering of resilient, efficient, and intelligent
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=logiccrafterdz&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## Stats
 
 <p align="center">
