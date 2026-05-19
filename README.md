@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/logiccrafterdz/logiccrafterdz/main/brand.svg" alt="LogicCrafterDz brand banner" width="100%" />
+  <img src="./brand.svg" alt="LogicCrafterDz brand banner" width="100%" />
 </p>
 
 <div align="center">
