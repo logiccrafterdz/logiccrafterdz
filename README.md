@@ -104,3 +104,5 @@ Software development is the engineering of resilient, efficient, and intelligent
 <p align="center">
   <em>Precision. Performance. Protocol.</em>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=120&section=footer" width="100%" />
