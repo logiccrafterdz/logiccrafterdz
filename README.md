@@ -26,7 +26,6 @@
   <img src="./manifesto.svg" alt="Manifesto Terminal" />
 </p>
 
-### Tech Stack Arsenal
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +33,6 @@
   </a>
 </p>
 
-### Featured Projects
 
 <p align="center">
   <a href="https://github.com/logiccrafterdz/SODS-Protocol">
@@ -58,7 +56,6 @@
   <img src="./achievements.svg" alt="Unlocked Achievements" />
 </p>
 
-## Stats
 
 <p align="center">
   <img src="./stats.svg" alt="Player Databanks" />
