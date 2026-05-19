@@ -25,17 +25,11 @@
   </a>
 </p>
 
----
-
 ## Focus
 
 - **Protocol Engineering** — Trustless coordination, zk proofs, and execution logic.
 - **Quant Systems** — Latency-aware engines, guardrails, and market automation.
 - **Intelligent Tooling** — Autonomous agents, scrapers, and Arabic document intelligence.
-
-<br />
-
----
 
 ## Selected Work
 
@@ -44,6 +38,7 @@
 </p>
 
 ### SODS Protocol
+
 Zero-cost cryptographic behavioral verification for decentralized networks.
 
 I designed SODS to remove the need for heavy archive nodes when verifying historical state behavior. It generates compact proofs that lightweight clients can verify without carrying full-chain cost.
@@ -52,26 +47,32 @@ I designed SODS to remove the need for heavy archive nodes when verifying histor
 - **Stack:** `Rust` `Solidity` `libp2p` `RISC Zero`
 
 ### CausalVerify
+
 Formal causal reasoning and validation engine for multi-stage state transitions.
 
 - **Why it matters:** Detects race conditions and logical anomalies before execution.
 - **Stack:** `TypeScript` `Cryptographic Verifiers` `DAGs`
 
 ### Argus
+
 Real-time monitoring engine with active circuit breakers for algorithmic trading.
 
 - **Why it matters:** Protects capital by intercepting anomalous execution in volatile markets.
 - **Stack:** `MQL5` `C++` `MetaTrader 5`
 
-<br />
-
----
-
 ## System Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages&hide=html,css" height="160" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=GitHub%20Statistics"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages&hide=html,css"
+    height="160"
+    alt="Top Languages"
+  />
 </p>
 
 <br />
