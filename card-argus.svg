@@ -1,0 +1,67 @@
+<svg width="400" height="130" viewBox="0 0 400 130" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .border-rare { fill: #00f5d4; }
+    .border-rare-inner { fill: #4cc9f0; }
+    .text-title { font-family: 'Consolas', 'Courier New', monospace; font-size: 16px; font-weight: bold; fill: #00f5d4; text-transform: uppercase; }
+    .text-desc { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; fill: #c9d1d9; }
+    .text-tier { font-family: 'Consolas', 'Courier New', monospace; font-size: 10px; font-weight: bold; fill: #0d1117; }
+    .text-stats { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; font-weight: bold; fill: #4cc9f0; }
+    .pixel { shape-rendering: crispEdges; }
+    
+    /* Neon glow effect for title */
+    .glow { filter: drop-shadow(0 0 4px #00f5d4); }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg pixel" width="400" height="130" />
+
+  <!-- Outer Pixel Border (Rare Cyan) -->
+  <path class="border-rare pixel" d="
+    M 4 0 H 396 V 4 H 400 V 126 H 396 V 130 H 4 V 126 H 0 V 4 H 4 Z
+  " fill-opacity="0.8"/>
+  
+  <!-- Inner Pixel Border (Rare Blue) -->
+  <path class="border-rare-inner pixel" d="
+    M 6 2 H 394 V 4 H 396 V 126 H 394 V 128 H 6 V 126 H 4 V 4 H 6 Z
+  " fill-opacity="0.4"/>
+  
+  <!-- Card Background -->
+  <path class="bg pixel" d="
+    M 6 4 H 394 V 126 H 6 Z
+  "/>
+
+  <!-- Pixel Art Eye Icon (16x16 scaled up) -->
+  <g transform="translate(15, 15) scale(2)" class="pixel">
+    <rect x="2" y="3" width="4" height="2" fill="#00f5d4"/>
+    <rect x="1" y="4" width="6" height="2" fill="#00f5d4"/>
+    <rect x="0" y="5" width="8" height="2" fill="#00f5d4"/>
+    <!-- Pupil -->
+    <rect x="3" y="4" width="2" height="2" fill="#0d1117"/>
+  </g>
+
+  <!-- Title -->
+  <text x="40" y="27" class="text-title glow">ARGUS</text>
+
+  <!-- Description -->
+  <text x="15" y="55" class="text-desc">A collection of professional</text>
+  <text x="15" y="70" class="text-desc">MetaTrader 5 (MQL5) trading</text>
+  <text x="15" y="85" class="text-desc">strategies and Expert Advisors.</text>
+
+  <!-- Language Dot (MQL5 - Grey/Blue) -->
+  <rect x="15" y="105" width="8" height="8" fill="#4a76a8" class="pixel"/>
+  <text x="28" y="113" class="text-desc">MQL5</text>
+
+  <!-- Star Icon (Pixel Art) -->
+  <g transform="translate(80, 104)" class="pixel border-rare-inner">
+    <path d="M4 0h1v3h3v1H5v3H4V4H1V3h3V0z" fill="#4cc9f0"/>
+  </g>
+  <text x="92" y="113" class="text-stats">3</text>
+
+  <!-- Rarity Tier Badge -->
+  <g transform="translate(300, 102)" class="pixel">
+    <rect x="0" y="0" width="85" height="15" fill="#00f5d4" />
+    <text x="42.5" y="11" class="text-tier" text-anchor="middle">RARE</text>
+  </g>
+
+</svg>
