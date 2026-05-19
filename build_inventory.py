@@ -15,20 +15,9 @@ svgs = re.findall(r'<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"256\" heig
 # Total height = 56 + 20 = 76
 
 out = ['<svg width=\"524\" height=\"76\" viewBox=\"0 0 524 76\" xmlns=\"http://www.w3.org/2000/svg\">']
-out.append('''<style>
-    .bg-inv { fill: #1a1a2e; }
-    .slot-border-out { fill: #11111e; }
-    .slot-border-in { fill: #0a0a14; }
-    .slot-highlight { fill: #2d2d4a; }
-    .pixel { shape-rendering: crispEdges; }
-    @keyframes hoverItem {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-4px); }
-    }
-</style>''')
 
 # Draw main inventory background
-out.append('<rect class=\"bg-inv pixel\" x=\"0\" y=\"0\" width=\"524\" height=\"76\" rx=\"4\"/>')
+out.append('<rect fill=\"#1a1a2e\" shape-rendering=\"crispEdges\" x=\"0\" y=\"0\" width=\"524\" height=\"76\" rx=\"4\"/>')
 
 # Draw slots and place icons
 for i, svg_content in enumerate(svgs):
@@ -36,19 +25,18 @@ for i, svg_content in enumerate(svgs):
     y = 10
     
     # Outer dark border
-    out.append(f'<rect class=\"slot-border-in pixel\" x=\"{x}\" y=\"{y}\" width=\"56\" height=\"56\" />')
+    out.append(f'<rect fill=\"#0a0a14\" shape-rendering=\"crispEdges\" x=\"{x}\" y=\"{y}\" width=\"56\" height=\"56\" />')
     
     # Inner border to create 3D sunken effect
-    out.append(f'<path class=\"slot-border-out pixel\" d=\"M{x} {y} h56 v4 h-52 v52 h-4 z\"/>')
-    out.append(f'<path class=\"slot-highlight pixel\" d=\"M{x+56} {y+56} h-56 v-4 h52 v-52 h4 z\"/>')
+    out.append(f'<path fill=\"#11111e\" shape-rendering=\"crispEdges\" d=\"M{x} {y} h56 v4 h-52 v52 h-4 z\"/>')
+    out.append(f'<path fill=\"#2d2d4a\" shape-rendering=\"crispEdges\" d=\"M{x+56} {y+56} h-56 v-4 h52 v-52 h4 z\"/>')
     
-    # The SVG bounding box is 256x256. We need to scale it down to fit in 44x44 (leaving some margin).
-    # 44 / 256 = 0.171875
-    # Place it at x+6, y+6
+    # Scale down
     cx = x + 6
     cy = y + 6
     
-    out.append(f'<g transform=\"translate({cx}, {cy})\" style=\"animation: hoverItem 2.5s ease-in-out infinite; animation-delay: {i*0.2}s;\">')
+    out.append(f'<g transform=\"translate({cx}, {cy})\">')
+    out.append(f'<animateTransform attributeName=\"transform\" type=\"translate\" values=\"{cx},{cy}; {cx},{cy-4}; {cx},{cy}\" dur=\"2.5s\" begin=\"{i*0.2}s\" repeatCount=\"indefinite\"/>')
     out.append(f'<g transform=\"scale(0.171875)\">')
     out.append(svg_content)
     out.append('</g>')
