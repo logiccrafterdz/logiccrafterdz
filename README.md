@@ -16,13 +16,11 @@
 
 ---
 
-### Tech Stack Arsenal
+## Focus Areas
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,ts,py,solidity,cpp,cs,react,nextjs,tailwind,docker,git,linux" alt="Tech Stack" />
-  </a>
-</p>
+- ⛓️ **Protocol Engineering**: Designing trustless coordination mechanisms, zero-knowledge behavioral proofs, and decentralized execution layers.
+- 📈 **Quantitative Systems**: Building latency-sensitive trading engines, expert advisors (MQL5/C++), and algorithmic execution guardrails.
+- 🤖 **Intelligent Tooling**: Engineering local-first AI automation agents, scrapers, and Arabic OCR/document structure converters.
 
 ---
 
