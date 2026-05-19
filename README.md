@@ -1,4 +1,7 @@
-<h1 align="center">LogicCrafterDZ</h1>
+<p align="center">
+  <img src="brand.svg" alt="LogicCrafter Banner" width="100%" />
+</p>
+
 <p align="center">
   <strong>Protocol Engineer • Quant Systems Builder • AI Toolmaker</strong>
 </p>
