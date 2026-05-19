@@ -56,19 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=logiccrafterdz&theme=tokyonight&background=0d1117&ring=7b2cbf&fire=7b2cbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7b2cbf&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logiccrafterdz&bg_color=0d1117&color=ffffff&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=logiccrafterdz&color=1e1e2e&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</p>
-
-<p align="center">
   <em>Precision. Performance. Protocol.</em>
 </p>
