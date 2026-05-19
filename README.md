@@ -65,6 +65,17 @@ Software development is the engineering of resilient, efficient, and intelligent
   </a>
 </p>
 
+<br />
+
+#### 📁 Project Dossier
+
+* 🛠️ **[SODS Protocol](https://github.com/logiccrafterdz/SODS-Protocol)**: A Simple On-chain Data Specification enabling lightweight, trustless verification of blockchain behavior.
+* 🔍 **[CausalVerify](https://github.com/logiccrafterdz/CausalVerify)**: Causal reasoning and validation engine designed to audit complex system interactions and state transitions.
+* 🛡️ **[Argus](https://github.com/logiccrafterdz/Argus)**: A specialized monitoring and verification agent for decentralized infrastructure and data streams.
+* 🤖 **[Droidclaw](https://github.com/logiccrafterdz/Droidclaw)**: Intelligent web crawler and autonomous data extraction agent optimized for unstructured networks.
+* 💳 **[xpay-sdk](https://github.com/logiccrafterdz/xpay-sdk)**: Developer SDK for X402 protocol, providing sovereign merchant integration and local commerce systems.
+* 📝 **[Nassij](https://github.com/logiccrafterdz/nassij)**: High-fidelity Arabic PDF-to-DOCX converter resolving RTL table alignments and diacritics reconstruction.
+
 ---
 
 ## Stats
