@@ -1,0 +1,32 @@
+<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0a0a14; }
+    .border-pink { fill: #f15bb5; }
+    .border-cyan { fill: #00f5d4; }
+    .text-main { font-family: 'Consolas', 'Courier New', monospace; font-size: 20px; font-weight: bold; fill: #f15bb5; letter-spacing: 4px; }
+    .text-sub { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; fill: #c9d1d9; }
+    .pixel { shape-rendering: crispEdges; }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .cursor { animation: blink 1s infinite; fill: #00f5d4; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg pixel" width="800" height="100" />
+
+  <!-- Top Border Line -->
+  <rect class="border-cyan pixel" x="50" y="20" width="700" height="2" />
+  <rect class="border-pink pixel" x="350" y="20" width="100" height="2" />
+  <rect class="border-cyan pixel" x="50" y="18" width="4" height="6" />
+  <rect class="border-cyan pixel" x="746" y="18" width="4" height="6" />
+
+  <!-- Connection Status -->
+  <text x="400" y="55" class="text-main" text-anchor="middle">SYSTEM TERMINATED</text>
+  <text x="400" y="75" class="text-sub" text-anchor="middle">CONNECTION LOST... <tspan class="cursor">_</tspan></text>
+
+  <!-- Bottom Details -->
+  <rect class="border-pink pixel" x="380" y="90" width="40" height="2" />
+</svg>

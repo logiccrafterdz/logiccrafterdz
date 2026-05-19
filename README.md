@@ -5,21 +5,21 @@
 
 <p align="center">
   <a href="https://x.com/Arana_lib">
-    <img src="https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="./btn-x.svg" alt="X" />
   </a>
   <a href="https://warpcast.com/esta">
-    <img src="https://img.shields.io/badge/Farcaster-7b2cbf?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" />
+    <img src="./btn-farcaster.svg" alt="Farcaster" />
   </a>
   <a href="https://www.logiccrafterdz.site">
-    <img src="https://img.shields.io/badge/Website-5b21b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="./btn-website.svg" alt="Website" />
   </a>
   <a href="mailto:contact@logiccrafterdz.site">
-    <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./btn-email.svg" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Protocol+Engineer;Quant+Systems+Builder;AI+Toolmaker;Building+Systems+That+Survive+Complexity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Protocol+Engineer;Quant+Systems+Builder;AI+Toolmaker;Building+Systems+That+Survive+Complexity" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -61,16 +61,16 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e&custom_title=Programming%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&bg_color=0a0a14&title_color=00f5d4&text_color=c9d1d9&icon_color=f15bb5&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&bg_color=0a0a14&title_color=00f5d4&text_color=c9d1d9&icon_color=f15bb5&hide_border=true&custom_title=Programming%20Languages" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=logiccrafterdz&theme=tokyonight&background=0d1117&ring=7b2cbf&fire=7b2cbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7b2cbf&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=logiccrafterdz&theme=tokyonight&background=0a0a14&ring=f15bb5&fire=f15bb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5d4&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logiccrafterdz&bg_color=0d1117&color=ffffff&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logiccrafterdz&bg_color=0a0a14&color=ffffff&line=00f5d4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <picture>
@@ -84,7 +84,5 @@
 </p>
 
 <p align="center">
-  <em>Precision. Performance. Protocol.</em>
+  <img src="./footer.svg" width="100%" alt="System Terminated" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=120&section=footer" width="100%" />
