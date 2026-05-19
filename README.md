@@ -22,13 +22,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Protocol+Engineer;Quant+Systems+Builder;AI+Toolmaker;Building+Systems+That+Survive+Complexity" alt="Typing SVG" />
 </p>
 
----
-
 ### System Architecture & Protocol Design
 
 I engineer resilient, latency-aware infrastructure and cryptographic verification systems. My focus lies at the intersection of **decentralized protocols**, **algorithmic financial markets**, and **autonomous intelligence**.
-
----
 
 ### Tech Stack Arsenal
 
@@ -37,8 +33,6 @@ I engineer resilient, latency-aware infrastructure and cryptographic verificatio
     <img src="./skills_animated.svg" alt="Core Stack" />
   </a>
 </p>
-
----
 
 ### Featured Projects
 
@@ -60,13 +54,9 @@ I engineer resilient, latency-aware infrastructure and cryptographic verificatio
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=logiccrafterdz&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
-
----
 
 ## Stats
 
@@ -82,8 +72,6 @@ I engineer resilient, latency-aware infrastructure and cryptographic verificatio
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=logiccrafterdz&bg_color=0d1117&color=ffffff&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logiccrafterdz/logiccrafterdz/output/github-snake-dark.svg">
