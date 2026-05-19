@@ -2,6 +2,18 @@
   <rect width="800" height="160" fill="#0b1220" rx="8" />
   
   <style>
+    @keyframes pulse {
+      0% {
+        stroke-dashoffset: 800;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+    @keyframes fade {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
     .title {
       font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
       font-weight: 700;
@@ -34,12 +46,22 @@
     }
     .accent-dot {
       fill: #14b8a6;
+      animation: fade 4s ease-in-out infinite;
     }
+    .dot-1 { animation-delay: 0s; }
+    .dot-2 { animation-delay: 0.6s; }
+    .dot-3 { animation-delay: 1.2s; }
+    .dot-4 { animation-delay: 1.8s; }
+    .dot-5 { animation-delay: 2.4s; }
+    .dot-6 { animation-delay: 3.0s; }
+
     .glow-path {
       stroke: url(#gradient);
       stroke-width: 2;
       stroke-linecap: round;
       fill: none;
+      stroke-dasharray: 200 600;
+      animation: pulse 8s linear infinite;
     }
   </style>
 
@@ -61,12 +83,12 @@
   <!-- Grid nodes and paths -->
   <path d="M 480,80 L 500,80 L 540,40 L 600,40 L 640,120 L 700,120 L 740,80 L 780,80" class="glow-path" />
 
-  <circle cx="500" cy="80" r="3.5" class="accent-dot" />
-  <circle cx="540" cy="40" r="3.5" class="accent-dot" />
-  <circle cx="600" cy="40" r="3.5" class="accent-dot" />
-  <circle cx="640" cy="120" r="3.5" class="accent-dot" />
-  <circle cx="700" cy="120" r="3.5" class="accent-dot" />
-  <circle cx="740" cy="80" r="3.5" class="accent-dot" />
+  <circle cx="500" cy="80" r="3.5" class="accent-dot dot-1" />
+  <circle cx="540" cy="40" r="3.5" class="accent-dot dot-2" />
+  <circle cx="600" cy="40" r="3.5" class="accent-dot dot-3" />
+  <circle cx="640" cy="120" r="3.5" class="accent-dot dot-4" />
+  <circle cx="700" cy="120" r="3.5" class="accent-dot dot-5" />
+  <circle cx="740" cy="80" r="3.5" class="accent-dot dot-6" />
 
   <!-- Monogram Box (Left) -->
   <rect x="50" y="40" width="80" height="80" rx="12" class="monogram-bg" />
