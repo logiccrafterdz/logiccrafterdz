@@ -66,19 +66,16 @@ Real-time monitoring engine with active circuit breakers for algorithmic trading
 ## System Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages&hide=html,css" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages&hide=html,css" height="160" alt="Top Languages" />
 </p>
 
 <br />
 
----
+<p align="center">
+  <strong>Precision. Performance. Protocol.</strong>
+</p>
 
-<br />
-
-<div align="center">
-
-**Precision. Performance. Protocol.**  
-<sub>Exploring: protocol-grade systems, quant infra, and AI-native automation.</sub>
-
-</div>
+<p align="center">
+  Exploring protocol-grade systems, quant infrastructure, and AI-native automation.
+</p>
