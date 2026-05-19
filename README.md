@@ -97,6 +97,12 @@ Software development is the engineering of resilient, efficient, and intelligent
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logiccrafterdz/logiccrafterdz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/logiccrafterdz/logiccrafterdz/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/logiccrafterdz/logiccrafterdz/output/github-snake.svg" width="100%">
+</picture>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=logiccrafterdz&color=1e1e2e&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
