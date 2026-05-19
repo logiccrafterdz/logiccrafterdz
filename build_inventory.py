@@ -35,10 +35,14 @@ for i, svg_content in enumerate(svgs):
     cx = x + 6
     cy = y + 6
     
+    # Strip the <svg ...> and </svg> tags from svg_content
+    inner_content = re.sub(r'^<svg[^>]*>', '', svg_content)
+    inner_content = re.sub(r'</svg>$', '', inner_content)
+    
     out.append(f'<g transform=\"translate({cx}, {cy})\">')
     out.append(f'<animateTransform attributeName=\"transform\" type=\"translate\" values=\"{cx},{cy}; {cx},{cy-4}; {cx},{cy}\" dur=\"2.5s\" begin=\"{i*0.2}s\" repeatCount=\"indefinite\"/>')
     out.append(f'<g transform=\"scale(0.171875)\">')
-    out.append(svg_content)
+    out.append(inner_content)
     out.append('</g>')
     out.append('</g>')
 
