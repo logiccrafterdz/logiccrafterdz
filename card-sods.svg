@@ -1,0 +1,71 @@
+<svg width="400" height="130" viewBox="0 0 400 130" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .border-gold { fill: #FFD700; }
+    .border-purple { fill: #7b2cbf; }
+    .text-title { font-family: 'Consolas', 'Courier New', monospace; font-size: 16px; font-weight: bold; fill: #FFD700; text-transform: uppercase; }
+    .text-desc { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; fill: #c9d1d9; }
+    .text-tier { font-family: 'Consolas', 'Courier New', monospace; font-size: 10px; font-weight: bold; fill: #0d1117; }
+    .text-stats { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; font-weight: bold; fill: #7b2cbf; }
+    .pixel { shape-rendering: crispEdges; }
+    
+    /* Neon glow effect for title */
+    .glow { filter: drop-shadow(0 0 4px #FFD700); }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg pixel" width="400" height="130" />
+
+  <!-- Outer Pixel Border (Gold) -->
+  <path class="border-gold pixel" d="
+    M 4 0 H 396 V 4 H 400 V 126 H 396 V 130 H 4 V 126 H 0 V 4 H 4 Z
+  " fill-opacity="0.8"/>
+  
+  <!-- Inner Pixel Border (Purple) -->
+  <path class="border-purple pixel" d="
+    M 6 2 H 394 V 4 H 396 V 126 H 394 V 128 H 6 V 126 H 4 V 4 H 6 Z
+  " fill-opacity="0.4"/>
+  
+  <!-- Card Background -->
+  <path class="bg pixel" d="
+    M 6 4 H 394 V 126 H 6 Z
+  "/>
+
+  <!-- Pixel Art Diamond Icon (16x16 scaled up) -->
+  <g transform="translate(15, 15) scale(2)" class="pixel">
+    <rect x="3" y="0" width="2" height="1" fill="#FFD700"/>
+    <rect x="2" y="1" width="4" height="1" fill="#FFD700"/>
+    <rect x="1" y="2" width="6" height="1" fill="#FFD700"/>
+    <rect x="0" y="3" width="8" height="1" fill="#FFD700"/>
+    <rect x="1" y="4" width="6" height="1" fill="#FFD700"/>
+    <rect x="2" y="5" width="4" height="1" fill="#FFD700"/>
+    <rect x="3" y="6" width="2" height="1" fill="#FFD700"/>
+    <!-- Shine -->
+    <rect x="2" y="2" width="2" height="1" fill="#FFF"/>
+  </g>
+
+  <!-- Title -->
+  <text x="40" y="27" class="text-title glow">SODS-PROTOCOL</text>
+
+  <!-- Description -->
+  <text x="15" y="55" class="text-desc">An experimental protocol proposal</text>
+  <text x="15" y="70" class="text-desc">that explores a new way to *read*</text>
+  <text x="15" y="85" class="text-desc">blockchains.</text>
+
+  <!-- Language Dot (Rust - Orange/Brown) -->
+  <rect x="15" y="105" width="8" height="8" fill="#dea584" class="pixel"/>
+  <text x="28" y="113" class="text-desc">Rust</text>
+
+  <!-- Star Icon (Pixel Art) -->
+  <g transform="translate(80, 104)" class="pixel border-purple">
+    <path d="M4 0h1v3h3v1H5v3H4V4H1V3h3V0z" fill="#7b2cbf"/>
+  </g>
+  <text x="92" y="113" class="text-stats">2</text>
+
+  <!-- Rarity Tier Badge -->
+  <g transform="translate(300, 102)" class="pixel">
+    <rect x="0" y="0" width="85" height="15" fill="#FFD700" />
+    <text x="42.5" y="11" class="text-tier" text-anchor="middle">LEGENDARY</text>
+  </g>
+
+</svg>

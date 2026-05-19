@@ -38,7 +38,7 @@ I engineer resilient, latency-aware infrastructure and cryptographic verificatio
 
 <p align="center">
   <a href="https://github.com/logiccrafterdz/SODS-Protocol">
-    <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=SODS-Protocol&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e" alt="SODS Protocol" />
+    <img height="130" src="./card-sods.svg" alt="SODS Protocol" />
   </a>
   <a href="https://github.com/logiccrafterdz/CausalVerify">
     <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=CausalVerify&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e" alt="CausalVerify" />
