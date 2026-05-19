@@ -1,27 +1,18 @@
+<h1 align="center">LogicCrafterDZ</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=250&section=header&text=LogicCrafter&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Protocol%20Engineering%20|%20Quantitative%20Trading%20|%20AI%20Systems&descSize=20&descAlignY=55&fontColor=ffffff" alt="LogicCrafter Header" />
+  <strong>Protocol Engineer • Quant Systems Builder • AI Toolmaker</strong>
 </p>
 
 <p align="center">
-  <a href="https://x.com/Arana_lib">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://warpcast.com/esta">
-    <img src="https://img.shields.io/badge/Farcaster-8A2BE2?style=flat-square&logo=farcaster&logoColor=white" alt="Farcaster" />
-  </a>
-  <a href="mailto:contact@logiccrafterdz.site">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.logiccrafterdz.site">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
+  <em>Designing resilient, high-performance systems across decentralized protocols, algorithmic markets, and autonomous intelligence.</em>
 </p>
 
----
-
-### Engineering & Infrastructure
-
-Software development is the engineering of resilient, efficient, and intelligent systems. My work focuses on the intersection of decentralized infrastructure, algorithmic financial markets, and autonomous intelligence.
+<p align="center">
+  <a href="https://x.com/Arana_lib">x.com</a> • 
+  <a href="https://warpcast.com/esta">farcaster</a> • 
+  <a href="https://www.logiccrafterdz.site">website</a> • 
+  <a href="mailto:contact@logiccrafterdz.site">email</a>
+</p>
 
 ---
 
