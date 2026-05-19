@@ -39,6 +39,10 @@
 
 ## Selected Work
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Featured-14B8A6?style=flat-square&logoColor=white" alt="Featured project" />
+</p>
+
 ### SODS Protocol
 Zero-cost cryptographic behavioral verification for decentralized networks.
 
