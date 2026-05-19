@@ -33,7 +33,7 @@
 
 ## Selected Work
 
-### ⚡ Featured Protocol: [SODS Protocol](https://github.com/logiccrafterdz/SODS-Protocol)
+### Featured Protocol: [SODS Protocol](https://github.com/logiccrafterdz/SODS-Protocol)
 *Zero-cost cryptographic behavioral verification for decentralized networks.*
 
 I designed and engineered the SODS protocol to solve a major bottleneck in Web3: the requirement to run heavy, expensive archive nodes just to verify historical state behavior. SODS generates compact, zero-knowledge proofs that verify actions on resource-constrained clients at zero cost.
