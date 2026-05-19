@@ -39,34 +39,25 @@
 
 ## Selected Work
 
-### Featured Protocol: [SODS Protocol](https://github.com/logiccrafterdz/SODS-Protocol)
-*Zero-cost cryptographic behavioral verification for decentralized networks.*
+### SODS Protocol
+Zero-cost cryptographic behavioral verification for decentralized networks.
 
-I designed and engineered the SODS protocol to solve a major bottleneck in Web3: the requirement to run heavy, expensive archive nodes just to verify historical state behavior. SODS generates compact, zero-knowledge proofs that verify actions on resource-constrained clients at zero cost.
+I designed SODS to remove the need for heavy archive nodes when verifying historical state behavior. It generates compact proofs that lightweight clients can verify without carrying full-chain cost.
 
-*Ensuring trust should be a computational guarantee, not a financial burden.*
+- **Why it matters:** Makes trustless verification viable on mobile and lightweight environments.
+- **Stack:** `Rust` `Solidity` `libp2p` `RISC Zero`
 
-* **Impact:** Fundamentally shifts the cost model of state verification, enabling trustless operations on mobile and lightweight clients.
-* **Stack:** `Rust` `Solidity` `libp2p` `RISC Zero`
+### CausalVerify
+Formal causal reasoning and validation engine for multi-stage state transitions.
 
-<br />
-<br />
+- **Why it matters:** Detects race conditions and logical anomalies before execution.
+- **Stack:** `TypeScript` `Cryptographic Verifiers` `DAGs`
 
-### [CausalVerify](https://github.com/logiccrafterdz/CausalVerify)
-*Formal causal reasoning and validation engine.*
+### Argus
+Real-time monitoring engine with active circuit breakers for algorithmic trading.
 
-Formal verification library mapping multi-stage state transitions as causal graphs to detect race conditions and logical anomalies.
-* **Why it matters:** Prevents protocol exploits by mathematically proving transaction flow invariants before execution.
-* **Stack:** `TypeScript` `Cryptographic Verifiers` `DAGs`
-
-<br />
-
-### [Argus](https://github.com/logiccrafterdz/Argus)
-*Intelligent monitoring and strategy risk guardrails.*
-
-Real-time multi-threaded watcher engine equipped with active circuit breakers and automated kill-switches for algorithmic trading.
-* **Why it matters:** Protects trading capital by intercepting execution anomalies in high-volatility environments.
-* **Stack:** `MQL5` `C++` `MetaTrader 5`
+- **Why it matters:** Protects capital by intercepting anomalous execution in volatile markets.
+- **Stack:** `MQL5` `C++` `MetaTrader 5`
 
 <br />
 
