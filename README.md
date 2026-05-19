@@ -21,9 +21,9 @@
 
 ## Focus Areas
 
-- ⛓️ **Protocol Engineering**: Designing trustless coordination mechanisms, zero-knowledge behavioral proofs, and decentralized execution layers.
-- 📈 **Quantitative Systems**: Building latency-sensitive trading engines, expert advisors (MQL5/C++), and algorithmic execution guardrails.
-- 🤖 **Intelligent Tooling**: Engineering local-first AI automation agents, scrapers, and Arabic OCR/document structure converters.
+- ⛓️ **Protocol Engineering**: Trustless coordination mechanisms, zero-knowledge behavioral proofs, and decentralized execution layers.
+- 📈 **Quantitative Systems**: Latency-sensitive trading engines, expert advisors (MQL5/C++), and algorithmic execution guardrails.
+- 🤖 **Intelligent Tooling**: Local-first AI automation agents, scrapers, and Arabic OCR/document structure converters.
 
 ---
 
@@ -48,7 +48,7 @@
 - **Stack:** MQL5 • MetaTrader 5 • C++
 
 ---
-## Stats
+## System Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
@@ -60,4 +60,6 @@
 
 <p align="center">
   <em>Precision. Performance. Protocol.</em>
+  <br />
+  <sub>Exploring: protocol-grade systems, quant infra, and AI-native automation.</sub>
 </p>
