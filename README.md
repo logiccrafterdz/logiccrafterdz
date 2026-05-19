@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:7b2cbf&height=250&section=header&text=LogicCrafterDz&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Protocol%20Engineering%20|%20Quantitative%20Systems%20|%20AI%20Infrastructure&descSize=18&descAlignY=55&fontColor=ffffff" alt="LogicCrafterDz Header" />
+  <img src="./mint-pass-banner.svg" alt="Mint Pass Banner" />
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Protocol+Engineer;Quant+Systems+Builder;AI+Toolmaker;Building+Systems+That+Survive+Complexity" alt="Typing SVG" />
 </p>
 
-### System Architecture & Protocol Design
-
-I engineer resilient, latency-aware infrastructure and cryptographic verification systems. My focus lies at the intersection of **decentralized protocols**, **algorithmic financial markets**, and **autonomous intelligence**.
+<p align="center">
+  <img src="./manifesto.svg" alt="Manifesto Terminal" />
+</p>
 
 ### Tech Stack Arsenal
 

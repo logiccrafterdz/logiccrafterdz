@@ -1,0 +1,38 @@
+<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #000000; }
+    .border { fill: #333333; }
+    .text-green { font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; fill: #00ff00; }
+    .text-prompt { font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; font-weight: bold; fill: #00f5d4; }
+    .text-highlight { font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; font-weight: bold; fill: #f15bb5; }
+    .pixel { shape-rendering: crispEdges; }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .cursor { animation: blink 1s infinite; fill: #00ff00; }
+  </style>
+
+  <!-- Terminal Window Background -->
+  <rect class="border pixel" width="800" height="140" rx="4" />
+  <rect class="bg pixel" x="2" y="2" width="796" height="136" rx="2" />
+  
+  <!-- Terminal Top Bar -->
+  <rect class="border pixel" x="2" y="2" width="796" height="20" rx="2" />
+  <circle cx="15" cy="12" r="4" fill="#ff5f56" />
+  <circle cx="30" cy="12" r="4" fill="#ffbd2e" />
+  <circle cx="45" cy="12" r="4" fill="#27c93f" />
+  <text x="400" y="16" font-family="Consolas" font-size="12" fill="#c9d1d9" text-anchor="middle">root@logiccrafterdz:~# ./manifesto.sh</text>
+
+  <!-- Terminal Text -->
+  <text x="15" y="45" class="text-prompt">root@logiccrafterdz:~# <tspan class="text-green">cat system_architecture.txt</tspan></text>
+  
+  <text x="15" y="70" class="text-green">> I engineer resilient, latency-aware infrastructure and cryptographic</text>
+  <text x="15" y="90" class="text-green">> verification systems. My focus lies at the intersection of</text>
+  <text x="15" y="110" class="text-highlight">> [ DECENTRALIZED PROTOCOLS ] <tspan class="text-green">, </tspan>[ ALGORITHMIC MARKETS ] <tspan class="text-green">, and </tspan>[ AI ]</text>
+  
+  <!-- Blinking Cursor -->
+  <text x="15" y="130" class="text-prompt">root@logiccrafterdz:~# <tspan class="cursor">_</tspan></text>
+
+</svg>

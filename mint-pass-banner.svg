@@ -1,0 +1,63 @@
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0a0a14; }
+    .grid { stroke: #1a1a2e; stroke-width: 1; }
+    .text-main { font-family: 'Consolas', 'Courier New', monospace; font-size: 65px; font-weight: bold; fill: url(#neonGradient); }
+    .text-sub { font-family: 'Consolas', 'Courier New', monospace; font-size: 16px; font-weight: bold; fill: #c9d1d9; letter-spacing: 2px; }
+    .pixel { shape-rendering: crispEdges; }
+    
+    .glow { filter: drop-shadow(0 0 8px #7b2cbf); }
+    .glow-sub { filter: drop-shadow(0 0 4px #00f5d4); }
+    
+    .border-pink { fill: #f15bb5; }
+    .border-cyan { fill: #00f5d4; }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 0.8; }
+      50% { opacity: 1; filter: drop-shadow(0 0 15px #7b2cbf); }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7b2cbf" />
+      <stop offset="50%" stop-color="#f15bb5" />
+      <stop offset="100%" stop-color="#00f5d4" />
+    </linearGradient>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid" />
+    </pattern>
+  </defs>
+
+  <!-- Background with Grid -->
+  <rect class="bg pixel" width="800" height="250" />
+  <rect width="800" height="250" fill="url(#gridPattern)" />
+
+  <!-- Cyberpunk Pixel Borders -->
+  <path class="border-pink pixel glow" d="M 20 20 h 200 v 4 h -196 v 206 h 752 v -206 h -200 v -4 h 204 v 214 h -760 z"/>
+  <path class="border-cyan pixel" d="M 24 24 h 50 v 4 h -46 v 50 h -4 z"/>
+  <path class="border-cyan pixel" d="M 776 226 h -50 v -4 h 46 v -50 h 4 z"/>
+
+  <!-- Decorative Pixel Nodes -->
+  <rect class="border-pink pixel" x="220" y="16" width="12" height="12"/>
+  <rect class="border-cyan pixel" x="568" y="16" width="12" height="12"/>
+  
+  <!-- Content -->
+  <!-- "MINT PASS" Badge -->
+  <g transform="translate(345, 45)" class="pixel">
+    <rect x="0" y="0" width="110" height="24" fill="#00f5d4" />
+    <text x="55" y="16" font-family="Consolas" font-size="12" font-weight="bold" fill="#0a0a14" text-anchor="middle">ACCESS GRANTED</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="400" y="130" class="text-main glow" text-anchor="middle" style="animation: pulse 3s infinite;">LOGICCRAFTERDZ</text>
+
+  <!-- Subtitle -->
+  <text x="400" y="170" class="text-sub glow-sub" text-anchor="middle">PROTOCOL ENGINEERING | QUANTITATIVE SYSTEMS | AI INFRASTRUCTURE</text>
+
+  <!-- Bottom decorative bar -->
+  <rect class="border-cyan pixel" x="300" y="200" width="200" height="4"/>
+  <rect class="border-pink pixel" x="280" y="200" width="16" height="4"/>
+  <rect class="border-pink pixel" x="504" y="200" width="16" height="4"/>
+
+</svg>
