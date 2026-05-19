@@ -26,34 +26,25 @@
 
 ---
 
-### Featured Projects
+## Selected Work
 
-<p align="center">
-  <a href="https://github.com/logiccrafterdz/SODS-Protocol">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=SODS-Protocol&theme=vision-friendly-dark&hide_border=true" alt="SODS Protocol" />
-  </a>
-  <a href="https://github.com/logiccrafterdz/CausalVerify">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=CausalVerify&theme=vision-friendly-dark&hide_border=true" alt="CausalVerify" />
-  </a>
-</p>
+### 🛠️ [SODS Protocol](https://github.com/logiccrafterdz/SODS-Protocol)
+*Cryptographic behavioral verification for block states without archive nodes.*
+- **Domain:** Protocol Engineering / Blockchain
+- **Impact:** Implements zero-cost, lightweight proof models reducing validation latency for complex transaction execution behaviors.
+- **Stack:** Rust • Solidity • libp2p • RISC Zero
 
-<p align="center">
-  <a href="https://github.com/logiccrafterdz/Argus">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=Argus&theme=vision-friendly-dark&hide_border=true" alt="Argus" />
-  </a>
-  <a href="https://github.com/logiccrafterdz/Droidclaw">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=Droidclaw&theme=vision-friendly-dark&hide_border=true" alt="DroidClaw" />
-  </a>
-</p>
+### 🔍 [CausalVerify](https://github.com/logiccrafterdz/CausalVerify)
+*Formal causal reasoning and behavioral validation engine.*
+- **Domain:** Verification Systems
+- **Impact:** Verifies multi-stage state transitions and system interaction invariants through causal behavioral graphs.
+- **Stack:** TypeScript • Cryptographic Verifiers
 
-<p align="center">
-  <a href="https://github.com/logiccrafterdz/xpay-sdk">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=xpay-sdk&theme=vision-friendly-dark&hide_border=true" alt="X402 SDK" />
-  </a>
-  <a href="https://github.com/logiccrafterdz/nassij">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=nassij&theme=vision-friendly-dark&hide_border=true" alt="Nassij" />
-  </a>
-</p>
+### 🛡️ [Argus](https://github.com/logiccrafterdz/Argus)
+*Intelligent monitoring and strategy risk guardrails.*
+- **Domain:** Quantitative Trading Infrastructure
+- **Impact:** Multi-threaded expert risk controls and live telemetry execution validation engine for algorithmic markets.
+- **Stack:** MQL5 • MetaTrader 5 • C++
 
 ---
 ## Stats
