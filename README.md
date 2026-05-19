@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Protocol+Engineer;Quant+Systems+Builder;AI+Toolmaker;Building+Systems+That+Survive+Complexity" alt="Typing SVG" />
+</p>
+
 ---
 
 ### Engineering & Infrastructure
