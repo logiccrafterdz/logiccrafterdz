@@ -34,7 +34,7 @@ I engineer resilient, latency-aware infrastructure and cryptographic verificatio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,go,cpp,ts,py,linux,docker" alt="Core Stack" />
+    <img src="./skills_animated.svg" alt="Core Stack" />
   </a>
 </p>
 
