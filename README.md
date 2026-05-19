@@ -24,9 +24,9 @@
 
 ---
 
-### Engineering & Infrastructure
+### System Architecture & Protocol Design
 
-Software development is the engineering of resilient, efficient, and intelligent systems. My work focuses on the intersection of decentralized infrastructure, algorithmic financial markets, and autonomous intelligence.
+I engineer resilient, latency-aware infrastructure and cryptographic verification systems. My focus lies at the intersection of **decentralized protocols**, **algorithmic financial markets**, and **autonomous intelligence**.
 
 ---
 
@@ -34,7 +34,7 @@ Software development is the engineering of resilient, efficient, and intelligent
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,ts,py,solidity,cpp,cs,react,nextjs,tailwind,docker,git,linux" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,go,cpp,ts,py,linux,docker" alt="Core Stack" />
   </a>
 </p>
 
@@ -44,35 +44,23 @@ Software development is the engineering of resilient, efficient, and intelligent
 
 <p align="center">
   <a href="https://github.com/logiccrafterdz/SODS-Protocol">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=SODS-Protocol&theme=vision-friendly-dark&hide_border=true" alt="SODS Protocol" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=SODS-Protocol&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e" alt="SODS Protocol" />
   </a>
   <a href="https://github.com/logiccrafterdz/CausalVerify">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=CausalVerify&theme=vision-friendly-dark&hide_border=true" alt="CausalVerify" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=CausalVerify&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e" alt="CausalVerify" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/logiccrafterdz/Argus">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=Argus&theme=vision-friendly-dark&hide_border=true" alt="Argus" />
-  </a>
-  <a href="https://github.com/logiccrafterdz/Droidclaw">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=Droidclaw&theme=vision-friendly-dark&hide_border=true" alt="DroidClaw" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/logiccrafterdz/xpay-sdk">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=xpay-sdk&theme=vision-friendly-dark&hide_border=true" alt="X402 SDK" />
-  </a>
-  <a href="https://github.com/logiccrafterdz/nassij">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=nassij&theme=vision-friendly-dark&hide_border=true" alt="Nassij" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=logiccrafterdz&repo=Argus&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e" alt="Argus" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=logiccrafterdz&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=logiccrafterdz&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -80,11 +68,8 @@ Software development is the engineering of resilient, efficient, and intelligent
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=logiccrafterdz&show_icons=true&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&bg_color=0d1117&title_color=7b2cbf&text_color=c9d1d9&icon_color=7b2cbf&border_color=1e1e2e&custom_title=Programming%20Languages" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -104,7 +89,7 @@ Software development is the engineering of resilient, efficient, and intelligent
 </picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=logiccrafterdz&color=1e1e2e&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=logiccrafterdz&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 <p align="center">
