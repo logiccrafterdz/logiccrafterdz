@@ -23,9 +23,9 @@
 
 ## Focus Areas
 
-* **Protocol Engineering**: Trustless coordination, zero-knowledge behavioral proofs, and decentralized execution.
-* **Quantitative Systems**: Latency-sensitive trading engines, expert advisors (MQL5/C++), and algorithmic execution guardrails.
-* **Intelligent Tooling**: Local-first AI automation agents, scrapers, and Arabic OCR / document pipelines.
+* **Protocol Engineering**: Trustless coordination layers, zk proofs, and execution logic.
+* **Quantitative Systems**: Latency-aware engines, strategy guardrails, and market automation.
+* **Intelligent Tooling**: Autonomous agents, scrapers, and Arabic document intelligence.
 
 <br />
 
