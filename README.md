@@ -92,7 +92,7 @@ Software development is the engineering of resilient, efficient, and intelligent
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
