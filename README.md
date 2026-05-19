@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=logiccrafterdz&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="./achievements.svg" alt="Unlocked Achievements" />
 </p>
 
 ## Stats
