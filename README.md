@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="./brand.svg" alt="LogicCrafterDz brand banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/logiccrafterdz/logiccrafterdz/main/brand.svg" alt="LogicCrafterDz brand banner" width="100%" />
 </p>
 
 <div align="center">
 
 **Protocol Engineer • Quant Systems Builder • AI Toolmaker**
 
-Designing resilient, high-performance systems across decentralized protocols, algorithmic markets, and autonomous intelligence.
+*I build systems that verify, adapt, and survive real-world complexity.*
+
+<br />
 
 [![X](https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Arana_lib)
 [![Farcaster](https://img.shields.io/badge/Farcaster-14B8A6?style=for-the-badge&logo=farcaster&logoColor=white)](https://warpcast.com/esta)
@@ -15,42 +17,46 @@ Designing resilient, high-performance systems across decentralized protocols, al
 
 </div>
 
+<br />
+
 ---
 
 ## Focus Areas
 
-* **Protocol Engineering**: Trustless coordination mechanisms, zero-knowledge behavioral proofs, and decentralized execution.
+* **Protocol Engineering**: Trustless coordination, zero-knowledge behavioral proofs, and decentralized execution.
 * **Quantitative Systems**: Latency-sensitive trading engines, expert advisors (MQL5/C++), and algorithmic execution guardrails.
 * **Intelligent Tooling**: Local-first AI automation agents, scrapers, and Arabic OCR / document pipelines.
+
+<br />
 
 ---
 
 ## Selected Work
 
-### [SODS Protocol](https://github.com/logiccrafterdz/SODS-Protocol)
+### ⚡ Featured Protocol: [SODS Protocol](https://github.com/logiccrafterdz/SODS-Protocol)
 *Cryptographic behavioral verification for block states without archive nodes.*
 
 I built this protocol because running full archival nodes just to verify historical user behavior is extremely heavy and expensive. SODS generates compact, zero-knowledge proofs that verify behavioral patterns at zero cost.
+- **Why it matters**: It fundamentally shifts the cost model of state verification, enabling trustless operations on resource-constrained clients.
+- **Stack**: `Rust` `Solidity` `libp2p` `RISC Zero`
 
-`Rust` `Solidity` `libp2p` `RISC Zero`
-
----
+<br />
 
 ### [CausalVerify](https://github.com/logiccrafterdz/CausalVerify)
 *Formal causal reasoning and behavioral validation engine.*
 
-I designed this library to verify complex, multi-stage state transitions. It helps audit logical invariants and causal timing issues in distributed protocols before they reach production.
-
+Designed to test and audit complex, multi-stage state transitions. Detects logical anomalies and timing issues in distributed protocols.  
 `TypeScript` `Cryptographic Verifiers` `Causal Graphs`
 
----
+<br />
 
 ### [Argus](https://github.com/logiccrafterdz/Argus)
 *Intelligent monitoring and strategy risk guardrails.*
 
-This is my personal infrastructure for trading operations. I needed a highly reliable, real-time watcher and automatic kill-switch to protect capital from extreme market anomalies.
-
+Real-time watcher and automatic kill-switch built to protect trading capital from extreme market anomalies.  
 `MQL5` `MetaTrader 5` `C++`
+
+<br />
 
 ---
 
@@ -61,7 +67,11 @@ This is my personal infrastructure for trading operations. I needed a highly rel
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=logiccrafterdz&layout=compact&theme=vision-friendly-dark&hide_border=true&custom_title=Programming%20Languages&hide=html,css" alt="Top Languages" height="165" />
 </p>
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
 
