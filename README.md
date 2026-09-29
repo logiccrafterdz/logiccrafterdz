@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./mint-pass-banner.svg" alt="Mint Pass Banner" />
+  <img src="./mint-pass-banner.svg" width="100%" alt="Mint Pass Banner" />
 </p>
 
 <p align="center">
@@ -23,12 +23,12 @@
 </p>
 
 <p align="center">
-  <img src="./manifesto.svg" alt="Manifesto Terminal" />
+  <img src="./manifesto.svg" width="100%" alt="Manifesto Terminal" />
 </p>
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.logiccrafterdz.site">
     <img src="./inventory-stack.svg?v=2" alt="Core Stack" />
   </a>
 </p>
@@ -53,12 +53,12 @@
 </p>
 
 <p align="center">
-  <img src="./achievements.svg" alt="Unlocked Achievements" />
+  <img src="./achievements.svg" width="100%" alt="Unlocked Achievements" />
 </p>
 
 
 <p align="center">
-  <img src="./stats.svg" alt="Player Databanks" />
+  <img src="./stats.svg" width="100%" alt="Player Databanks" />
 </p>
 
 <picture>

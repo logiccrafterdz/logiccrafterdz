@@ -47,15 +47,15 @@
   <text x="15" y="70" class="text-desc">integration framework for</text>
   <text x="15" y="85" class="text-desc">distributed systems.</text>
 
-  <!-- Language Dot (Python - Yellow/Blue) -->
-  <rect x="15" y="105" width="8" height="8" fill="#3572A5" class="pixel"/>
-  <text x="28" y="113" class="text-desc">Python</text>
+  <!-- Language Dot (Go - Cyan) -->
+  <rect x="15" y="105" width="8" height="8" fill="#00ADD8" class="pixel"/>
+  <text x="28" y="113" class="text-desc">Go</text>
 
   <!-- Star Icon (Pixel Art) -->
   <g transform="translate(80, 104)" class="pixel border-rare-alt-inner">
     <path d="M4 0h1v3h3v1H5v3H4V4H1V3h3V0z" fill="#ff0054"/>
   </g>
-  <text x="92" y="113" class="text-stats">0</text>
+  <text x="92" y="113" class="text-stats">4</text>
 
   <!-- Rarity Tier Badge -->
   <g transform="translate(300, 102)" class="pixel">

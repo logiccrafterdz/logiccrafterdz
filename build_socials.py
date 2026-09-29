@@ -1,10 +1,10 @@
 import os
 
 buttons = [
-    {"name": "btn-x", "text": "X / TWITTER", "color": "#1a1a2e"},
-    {"name": "btn-farcaster", "text": "FARCASTER", "color": "#7b2cbf"},
-    {"name": "btn-website", "text": "WEBSITE", "color": "#5b21b6"},
-    {"name": "btn-email", "text": "EMAIL", "color": "#f15bb5"}
+    {"name": "btn-x", "text": "X / TWITTER", "color": "#1a1a2e", "delay": "0s"},
+    {"name": "btn-farcaster", "text": "FARCASTER", "color": "#7b2cbf", "delay": "0.3s"},
+    {"name": "btn-website", "text": "WEBSITE", "color": "#5b21b6", "delay": "0.6s"},
+    {"name": "btn-email", "text": "EMAIL", "color": "#f15bb5", "delay": "0.9s"}
 ]
 
 svg_template = """<svg width="150" height="36" viewBox="0 0 150 36" xmlns="http://www.w3.org/2000/svg">
@@ -19,9 +19,10 @@ svg_template = """<svg width="150" height="36" viewBox="0 0 150 36" xmlns="http:
       0%, 100% {{ transform: translateY(0); }}
       50% {{ transform: translateY(2px); }}
     }}
+    .btn-box {{ animation: press 3s ease-in-out infinite {delay}; }}
   </style>
   
-  <g transform="translate(0, 0)">
+  <g class="btn-box" transform="translate(0, 0)">
     <!-- Outer Border -->
     <rect class="border-dark pixel" x="0" y="0" width="150" height="36" />
     
@@ -43,6 +44,6 @@ svg_template = """<svg width="150" height="36" viewBox="0 0 150 36" xmlns="http:
 
 for btn in buttons:
     with open(f'{btn["name"]}.svg', 'w') as f:
-        f.write(svg_template.format(color=btn["color"], text=btn["text"]))
+        f.write(svg_template.format(color=btn["color"], text=btn["text"], delay=btn["delay"]))
 
 print("Generated social buttons.")

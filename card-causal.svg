@@ -43,12 +43,18 @@
 
   <!-- Description -->
   <text x="15" y="55" class="text-desc">A lightweight, protocol-agnostic</text>
-  <text x="15" y="70" class="text-desc">library for **Causal Behavioral</text>
-  <text x="15" y="85" class="text-desc">Verification**.</text>
+  <text x="15" y="70" class="text-desc">library for Causal Behavioral</text>
+  <text x="15" y="85" class="text-desc">Verification.</text>
 
   <!-- Language Dot (TypeScript - Blue) -->
   <rect x="15" y="105" width="8" height="8" fill="#3178c6" class="pixel"/>
   <text x="28" y="113" class="text-desc">TypeScript</text>
+
+  <!-- Star Icon (Pixel Art) -->
+  <g transform="translate(100, 104)" class="pixel border-epic-inner">
+    <path d="M4 0h1v3h3v1H5v3H4V4H1V3h3V0z" fill="#9b5de5"/>
+  </g>
+  <text x="112" y="113" class="text-stats">0</text>
 
   <!-- Rarity Tier Badge -->
   <g transform="translate(300, 102)" class="pixel">
